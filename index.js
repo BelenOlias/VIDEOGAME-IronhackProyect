@@ -1,0 +1,9 @@
+
+mainGame.init('myCanvas')
+    
+    
+  
+
+
+
+

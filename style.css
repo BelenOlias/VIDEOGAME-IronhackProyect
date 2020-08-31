@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    
+}
+
+.titleMain{
+
+    text-align: center;
+
+}
+
+.canvas-space{   
+    text-align: center;
+    margin-top: 80px; 
+}
+
+#welcome-bg {
+    display: none;
+}
+
+#logo {
+    display: none;
+}
+
+#start-button {
+    display: none;   
+}
+
+
+#control {
+    display: none;
+}
+
+#play-again {
+    display: none;
+}
+
